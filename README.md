@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Visualizações" alt="Visualizações de perfil">
 </div>

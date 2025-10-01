@@ -13,7 +13,7 @@
 ## Sobre mim:
 
 ```yaml
-Nome: "UPXE desenvolvedor"
+Nome: "6oox desenvolvedor"
 Idade: "???"
 Gênero : "???"
 Status: "Animes, Mangás, Cinema, Jogos"

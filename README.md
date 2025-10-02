@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Visualizações" alt="Visualizações de perfil">
-</div>
-
 </h3>
 
 ---
@@ -38,3 +34,10 @@ Local: "BR"
 ```
 
 ---
+
+<!-- Visualizações e seguidores -->
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=VipCoringa&style=for-the-badge&label=Visualizações&color=gray" />
+  </a>
+</p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <gif src="https://comicvine.gamespot.com/a/uploads/scale_super/11143/111434194/8842186-redditsave_com_mode_saitama-xq00gpncns591_adobeexpress.gif" width="100%" />
+  <img src="https://comicvine.gamespot.com/a/uploads/scale_super/11143/111434194/8842186-redditsave_com_mode_saitama-xq00gpncns591_adobeexpress.gif" width="100%" />
 </p>
 
 </h3>

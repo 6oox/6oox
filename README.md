@@ -1,5 +1,5 @@
 <p align="center">
-  <mp4 src="https://carregar-api-npui.onrender.com/uploads/1765707448041-71.mp4" width="100%" />
+  <gif src="https://carregar-api-npui.onrender.com/uploads/1765707448041-71.mp4" width="100%" />
 </p>
 
 </h3>

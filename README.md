@@ -12,7 +12,7 @@
 Nome: "6oox desenvolvedor"
 Idade: "???"
 Gênero : "???"
-Status: "Animes, Mangás, Cinema, Jogos"
+Status: "Animes, Mangás, Cinema, Jogos, Programação"
 Local: "BR"
 ```
 
